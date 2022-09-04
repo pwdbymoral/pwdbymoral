@@ -1,7 +1,7 @@
 ### Fala, primo! 👋
 ---
 
-🟢 Atualmente buscando por trabalho remoto.
+#🟢 Atualmente buscando por trabalho remoto.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width = 30px>
