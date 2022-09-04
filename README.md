@@ -3,8 +3,10 @@
 
 🟢 Atualmente buscando por trabalho remoto.
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width = 30px>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width = 30px>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width = 30px>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width = 30px>
+</div>
 
 <!--
 **pwdbymoral/pwdbymoral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
