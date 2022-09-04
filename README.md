@@ -1,5 +1,8 @@
-### Hi there 👋
+### Fala, primo! 👋
 
+🟢 Atualmente buscando por trabalho remoto.
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 <!--
 **pwdbymoral/pwdbymoral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
