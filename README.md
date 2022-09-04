@@ -1,4 +1,5 @@
 ### Fala, primo! 👋
+---
 
 🟢 Atualmente buscando por trabalho remoto.
 
