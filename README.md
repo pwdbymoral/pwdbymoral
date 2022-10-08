@@ -1,7 +1,7 @@
 ### Fala, primo! 👋
 ---
 
-💻 Estudando front end na *Alura*
+💻 Estudando front end na *Alura* <br>
 🟢 Atualmente buscando por trabalho remoto.
 
 <div>
