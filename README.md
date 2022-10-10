@@ -1,7 +1,7 @@
 ## Fala, primo! 👋
 
 - 💻 Studying front end at ***Alura***
-- 🟢 Free to work remotely.
+- 🟢 Available to work remotely.
 - ⚒️ Websites under development:
 - - >[Kainniel Portifólio](https://pwdbymoral.github.io/kainniel_portifolio/)
 
