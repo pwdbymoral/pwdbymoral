@@ -1,11 +1,9 @@
-### Fala, primo! 👋
----
+## Fala, primo! 👋
 
-💻 Estudando front end na *Alura* <br>
-🟢 Atualmente buscando por trabalho remoto.
-
-⚒️ Sites em desenvolvimento:
->[Kainniel Portifólio](https://pwdbymoral.github.io/kainniel_portifolio/)
+- 💻 Estudando front end na *Alura*
+- 🟢 Atualmente buscando por trabalho remoto.
+- ⚒️ Sites em desenvolvimento:
+- - >[Kainniel Portifólio](https://pwdbymoral.github.io/kainniel_portifolio/)
 
 
 <div>
