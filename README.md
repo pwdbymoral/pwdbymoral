@@ -4,6 +4,10 @@
 💻 Estudando front end na *Alura* <br>
 🟢 Atualmente buscando por trabalho remoto.
 
+⚒️ Sites em desenvolvimento:
+>[Kainniel Portifólio](https://pwdbymoral.github.io/kainniel_portifolio/)
+
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width = 30px>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width = 30px>
