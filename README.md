@@ -1,8 +1,8 @@
 ## Fala, primo! 👋
 
-- 💻 Estudando front end na ***Alura***
-- 🟢 Atualmente buscando por trabalho remoto.
-- ⚒️ Sites em desenvolvimento:
+- 💻 Studying front end at ***Alura***
+- 🟢 Free to work remotely.
+- ⚒️ Websites under development:
 - - >[Kainniel Portifólio](https://pwdbymoral.github.io/kainniel_portifolio/)
 
 
