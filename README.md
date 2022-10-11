@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/His
 - ⚒️ Websites under development:
 - - >[Kainniel Portifólio](https://pwdbymoral.github.io/kainniel_portifolio/)
-- - >[Lojinho do Tatu](https://pwdbymoral.github.io/lojinho-do-tau/)
+- - >[Lojinho do Tatu](https://pwdbymoral.github.io/lojinho-do-tatu/)
 
 ---
 <div align=center>
