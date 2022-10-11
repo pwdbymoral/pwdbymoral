@@ -1,4 +1,4 @@
-## Fala, primo! 👋
+## Hey there! 👋
 
 - 💻 Currently improving front end knowledge at ***Alura***
 - 🟢 Available to work remotely.
