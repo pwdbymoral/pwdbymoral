@@ -1,7 +1,7 @@
 ## Hey there! 👋
 
 - 💻 Currently improving front end knowledge
-- 🟢 Available to work remotely.
+- 🟢 Available to work.
 - 😄 Pronouns: He/His
 - ⚒️ Websites under development:
 - - >[Kainniel Portifólio](https://pwdbymoral.github.io/kainniel_portifolio/)
