@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-- 💻 Currently improving front end knowledge at ***Alura***
+- 💻 Currently improving front end knowledge
 - 🟢 Available to work remotely.
 - 😄 Pronouns: He/His
 - ⚒️ Websites under development:
