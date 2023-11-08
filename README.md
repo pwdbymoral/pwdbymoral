@@ -1,12 +1,12 @@
 ## Hey there! 👋
 
 - 💻 Currently improving front end knowledge
-- 🟢 Available to work
 - 😄 Pronouns: He/His
 - ⚒️ Websites under development:
-- - >[Kainniel Portifólio](https://pwdbymoral.github.io/kainniel_portifolio/)
-- - >[Lojinho do Tatu](https://pwdbymoral.github.io/lojinho-do-tatu/)
-- - >[Health & Care](https://kainniel.github.io/Front-end-framework-site/)
+- >[Kainniel Portifólio](https://pwdbymoral.github.io/kainniel_portifolio/)
+- >[Lojinho do Tatu](https://lojinho-do-tatu-tailwind.vercel.app)
+- >[Health & Care](https://kainniel.github.io/Front-end-framework-site/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pwdbymoral/)
 
 ---
 <div align=center>
