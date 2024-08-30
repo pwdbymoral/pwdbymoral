@@ -5,7 +5,7 @@
 - ⚒️ Websites under development:
 - >[Kainniel Portifólio](https://pwdbymoral.github.io/kainniel_portifolio/)
 - >[Unikids](https://pwdbymoral.github.io/unikids/)
-- >[Lojinho do Tatu](https://lojinho-do-tatu-tailwind.vercel.app)
+- >[Lojinho do Tatu](https://lojinhodotatu.vercel.app)
 - >[Health & Care](https://kainniel.github.io/Front-end-framework-site/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pwdbymoral/)
 
